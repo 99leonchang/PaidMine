@@ -1,0 +1,7 @@
+{
+  "name": "PaidMine",
+  "description": "A simple, in PHP written.",
+  "repository": "https://github.com/KairusDarkSeeker/PaidMine",
+  "logo": "https://raw.githubusercontent.com/MarvinMenzerath/MinecraftAchievementGenerator/master/css/favicon.png",
+  "keywords": ["PHP", "Minecraft PE", "PocketMine-MP plugin"]
+}
